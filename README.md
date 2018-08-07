@@ -4,7 +4,7 @@ This project helps to find students information and performing basic operations 
 
 
 ## Requirements- 
-    # Netbeans
+    Netbeans
     jdk
     derby database connection
 
